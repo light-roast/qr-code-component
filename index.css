@@ -39,9 +39,10 @@ main img {
     padding: 22px 10px;
 }
 
-h2 {
+h1 {
     color: hsl(218, 44%, 22%);
     padding-bottom: 15px;;
+    font-size: 1.5rem;
 }
 
 p, .attribution {
